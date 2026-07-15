@@ -1,0 +1,45 @@
+# ── Credentials — NEVER commit these ─────────────────────────────────
+.Renviron
+.env
+.env.*
+*.env
+**/secrets.*
+hf_*
+sk-ant-*
+
+# ── Python virtual environment ────────────────────────────────────────
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ── Audio files ───────────────────────────────────────────────────────
+*.wav
+*.mp3
+*.m4a
+*.mp4
+*.ogg
+*.flac
+
+# ── macOS ────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ── Model cache ───────────────────────────────────────────────────────
+.cache/
+models/
+
+
+# ── Scratch files ───────────────────────────────────────────────────────
+scratch.md
+quickstart.md
+tmp_*
+
+# ── Admin and archive files ──────────────────────────────────────────────
+00_admin/
+99_archive
+
