@@ -1,5 +1,3 @@
-# C. Jason Tinant
-
 I teach environmental science, engineering, geospatial technologies, and
 mathematics at Oglala Lakota College on the Pine Ridge Reservation, where I've
 been on the faculty since 2005. I'm a hydrologist by training—geological
