@@ -102,3 +102,5 @@ blending, and other bespoke work that rewards careful observation,
 experimentation, and iteration. _The next stop in turning ideas into objects:_
 _putting a small blacksmithing forge to use._ Those same habits shape how I
 approach teaching, software, and research.
+
+![recent craft work](img/dye_ls_chokecherries.jpeg)
